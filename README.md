@@ -41,4 +41,4 @@ The study focuses on **predictive regression frameworks**, where excess market r
    * Discuss which variables exhibit genuine predictive power.
    * Link model outcomes to theoretical explanations of **time-varying risk premia** and **business-cycle dynamics**.
 
-The notebook and accompanying report document the **full empirical workflow** – from data import and regression estimation to out-of-sample evaluation and interpretation—highlighting the methodological rigor behind forecasting the equity risk premium in a reproducible way.
+The notebook and accompanying report document the **full empirical workflow** – from data import and regression estimation to out-of-sample evaluation and interpretation – highlighting the methodological rigor behind forecasting the equity risk premium in a reproducible way.
